@@ -49,4 +49,41 @@ body{
 	display: block;
     
 }
-
+.description{
+    padding: 25px 0;
+    text-align: center;
+}
+.link ul{
+    
+    list-style: none;
+    
+}
+.mac{
+    font-size: .85em;
+}
+.model{
+    font-weight: 700;
+	font-size: 56px;
+}
+.best{
+    font-size: 2em;
+}
+.link{
+    padding: 15px 0;
+}
+.link ul li{
+    display: inline-block;
+    padding-right: 20px;
+}
+.link ul li a{
+    color: blue;
+    text-decoration: none;
+}
+.link ul li a:hover{
+    color: black;
+}
+.link ul li a:after {
+    font-family: "FontAwesome";
+    content: "\f105";    
+    padding-left: 10px;
+}
