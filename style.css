@@ -93,3 +93,85 @@ body{
     text-align: center;   
 }
 
+.eleven{
+    text-align: center;
+    background-image: url("home/iphone11-pro-bg.jpg");
+    height: 580px;
+    background-position: center;
+    background-repeat: none;
+    background-size: cover;
+    padding: 65px 0;
+    color: #fff;
+}
+.pro{
+    font-weight:600;
+    font-size: 56px;
+}
+.desc{
+    padding-top: 10px;
+    font-size: 1.4em;
+}
+.price{
+    padding: 10px ;
+    font-size: 0.85em;
+    opacity: 0.5;
+}
+.links{
+    list-style: none;
+}
+.links ul li{
+    display: inline-block;
+    padding-right: 15px;
+}
+.links ul li a{
+    color: rgb(51, 148, 189);
+    text-decoration: none;
+}
+.links ul li a:hover{
+    color: white;
+}
+.links ul li a:after{
+    font-family: "FontAwesome";
+    content: "\f105";    
+    padding-left: 10px;
+
+}
+.boom{
+    text-align: center;
+    background-image: url("home/iphone11-bg.jpg");
+    height: 580px;
+    background-size: cover;
+    background-position: center;
+    background-repeat: none;
+}
+.one{
+    font-weight: 600;
+    font-size: 58px;
+    padding: 35px 0px  10px;
+}
+.two{
+    font-size: 1.4em;
+}
+.four{
+    font-size: 0.85em;
+    opacity: 0.5;
+    padding: 10px;
+  
+}
+.five ul li{
+    display: inline-block;
+    padding-right: 10px;
+
+}
+.five ul li a{
+    color: blue;
+    text-decoration: none;
+}
+.five ul li a:hover{
+    color: black;
+}
+.five ul li a:after{
+    font-family: "FontAwesome";
+    content: "\f105";    
+    padding-left: 10px;
+}
