@@ -52,6 +52,7 @@ body{
 .description{
     padding: 25px 0;
     text-align: center;
+    background: #fafafa;
 }
 .link ul{
     
@@ -87,3 +88,8 @@ body{
     content: "\f105";    
     padding-left: 10px;
 }
+.laptop{
+    background-color: #fafafa;
+    text-align: center;   
+}
+
