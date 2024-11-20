@@ -177,7 +177,7 @@ body{
 }
 .watch_card {
     display: flex;
-    justify-content: space-between;
+    
     background-color: #fff;
 }
 .first1{
@@ -209,4 +209,35 @@ body{
 .feature{
     padding: 10px 20px;
     font-size: 1.2em;
+}
+.second{
+    background-image: url("home/apple-card.jpg");
+    height: 580px;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	text-align: center;
+    width: 48.5%;
+    margin: 1%  1% 0%  0.5%; 
+    padding: 54px;
+ 
+}
+.bbb ul li{
+    display: inline-block;
+    padding: 20px 10px;
+}
+.bbb ul li a{
+    text-decoration: none;
+}
+.bbb ul li a:after{
+    font-family: "FontAwesome";
+   
+  font-weight: 900;
+  content: "\f105";
+  padding-left: 10px;
+
+}
+.brief-description{
+    font-size: 1.2em;
+    padding-top: 20px;
 }
