@@ -193,7 +193,7 @@ body{
 }
 .aa ul li{
     display: inline-block;
-    padding: 20px 10px;
+    padding: 10px 10px;
 }
 .aa ul li a{
     text-decoration: none;
@@ -207,8 +207,9 @@ body{
     
 }
 .feature{
+    max-width: 76%;
     padding: 10px 20px;
-    font-size: 1.2em;
+    margin: 0 auto;
 }
 .second{
     background-image: url("home/apple-card.jpg");
@@ -219,7 +220,7 @@ body{
 	text-align: center;
     width: 48.5%;
     margin: 1%  1% 0%  0.5%; 
-    padding: 54px;
+    padding-top:  54px;
  
 }
 .bbb ul li{
@@ -228,6 +229,10 @@ body{
 }
 .bbb ul li a{
     text-decoration: none;
+    color: rgb(17, 14, 239);
+}
+.bbb ul li a:hover{
+    color: black;
 }
 .bbb ul li a:after{
     font-family: "FontAwesome";
@@ -238,6 +243,7 @@ body{
 
 }
 .brief-description{
-    font-size: 1.2em;
+    max-width: 76%;
     padding-top: 20px;
+    margin: 0 auto;
 }
