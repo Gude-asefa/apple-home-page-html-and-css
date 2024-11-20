@@ -175,3 +175,38 @@ body{
     content: "\f105";    
     padding-left: 10px;
 }
+.watch_card {
+    display: flex;
+    justify-content: space-between;
+    background-color: #fff;
+}
+.first1{
+    background-image: url("home/watch-series-5.jpg");
+    height: 580px;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	text-align: center;
+	width: 48.5%;
+	margin: 1% 0.5% 0% 1%; 
+	padding-top: 54px;
+}
+.aa ul li{
+    display: inline-block;
+    padding: 20px 10px;
+}
+.aa ul li a{
+    text-decoration: none;
+}
+.aa ul li a:after{
+    font-family: "FontAwesome";
+   
+  font-weight: 900;
+  content: "\f105";
+  padding-left: 10px;
+    
+}
+.feature{
+    padding: 10px 20px;
+    font-size: 1.2em;
+}
