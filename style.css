@@ -330,3 +330,6 @@ body{
     padding-left: 10px;
 
 }
+.linkss ul li a:hover{
+    color: white ;
+}
