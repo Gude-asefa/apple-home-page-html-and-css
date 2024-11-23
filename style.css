@@ -247,3 +247,86 @@ body{
     padding-top: 20px;
     margin: 0 auto;
 }
+.internal{
+    display: flex;
+    justify-content: space-between;  
+   
+}
+
+
+.rs{
+    height: 580px;
+    background-image: url("home/apple-tv-background.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 48.5%;
+    text-align: center;
+    margin: 1% 0.5% 0% 1%; 
+
+   
+}
+.icon-logo{
+    margin-top: 54px;   
+}
+.servant{
+    margin-top: 150px;
+}
+.watch_it{
+    margin-top: 190px;
+}
+.watch_it a{
+    text-decoration: none;
+    
+}
+.watch_it a:hover{
+    color: black;
+
+}
+.watch_it a:after{
+    font-family: "FontAwesome";
+  font-weight: 900;
+  content: "\f144";
+  padding-left: 15px;
+}
+
+
+.ls{
+    text-align: center;
+    width: 48.5%;
+    color: #fff;
+     
+	background-image:  url("home/air-pods.jpg");
+   
+    background-size: initial;
+    background-repeat: no-repeat;
+    background-position: bottom;
+    background-color: black;
+    margin: 1%  1% 0%  0.5%; 
+    
+
+}
+.airpod{
+    font-weight: bold;
+    font-size: 40px;
+    margin-top: 54px;
+}
+.magic{
+    margin: 15px auto ;
+    font-size: 1.2em;
+}
+.linkss li{
+    display: inline-block;
+}
+.linkss ul li a{
+    text-decoration: none;
+    margin-right: 10px;
+    color: blue;
+    
+}
+.linkss ul li a:after{
+    font-family: "FontAwesome";
+    content: "\f105";    
+    padding-left: 10px;
+
+}
