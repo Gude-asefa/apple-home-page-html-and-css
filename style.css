@@ -333,3 +333,74 @@ body{
 .linkss ul li a:hover{
     color: white ;
 }
+.whoole{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+}
+.left_side1{
+    background-image: url("home/macbook-pro.jpg");
+    background-position: bottom;
+    background-repeat: no-repeat;
+    background-size: initial;
+    height: 580px;
+    background-color: #fafafa;
+    width: 48.5%;
+    text-align: center;
+    margin: 1% 0.5% 0% 1%;
+}
+.upper{
+    margin-top: 54px;
+    font-size: 0.85em;
+    opacity: o.85;
+}
+.next{
+    font-weight: bold;
+    font-size: 2em;
+}
+.linkk ul li{
+    display: inline-block;
+    margin: 10px ;
+
+}
+.linkk ul li a{
+    text-decoration: none;
+}
+.linkk ul li a:after{
+    font-family: "FontAwesome";
+    font-weight: 900;
+    content: "\f105";
+    padding-left: 10px;
+
+}
+.right_side1{
+    background-image: url("home/new-ipad.jpg");
+    background-size: initial;
+    background-position: bottom;
+    background-repeat: no-repeat;
+    height: 580px;
+    width: 48.5%;
+    margin: 1% 1% 0% 0.5%;
+
+}
+.the_new{
+    margin-top: 54px;
+}
+.texts{
+    padding: 10px 0;
+   
+}
+.obvious ul li{
+    display: inline-block;
+    padding-right: 10px;
+}
+.obvious ul li a{
+    text-decoration: none;
+}
+/*
+    font-family: "FontAwesome";
+    font-weight: 900;
+    content: "\f105";
+    padding-left: 10px;
+
+}
