@@ -397,7 +397,7 @@ body{
 .obvious ul li a{
     text-decoration: none;
 }
-/*
+.obvious ul li a:after{
     font-family: "FontAwesome";
     font-weight: 900;
     content: "\f105";
